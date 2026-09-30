@@ -115,4 +115,4 @@ def run_chi2_analysis(sigma_y):
   plt.tight_layout()
   plt.show()
 
-run_chi2_analysis(sigma_y=1.24)
+run_chi2_analysis(sigma_y=2.5)
