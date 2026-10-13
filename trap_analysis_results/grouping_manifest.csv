@@ -1,0 +1,9 @@
+power_mA,free_bead_file,oscX_calibration_file,oscY_calibration_file,free_samples,free_duration_s_at_5000_Hz,pairing_method
+225.8,z32 225-8 mA.txt,z44_226-0_mA_fixed_oscX.txt,z4_225-9_mA_fixed_oscY.txt,25000,5.0,explicit numeric-label matching; see script GROUPS map
+243.4,z32 243-4 mA.txt,z44_243-4_mA_fixed_oscX.txt,z4_243-4_mA_fixed_oscY.txt,25000,5.0,explicit numeric-label matching; see script GROUPS map
+282.6,z32 282-6 mA.txt,z44_282-3_mA_fixed_oscX.txt,z4_282-4_mA_fixed_oscY.txt,25000,5.0,explicit numeric-label matching; see script GROUPS map
+316.0,z32 316-0 mA.txt,z44_315-8_mA_fixed_oscX.txt,z4_316-0_mA_fixed_oscY.txt,25000,5.0,explicit numeric-label matching; see script GROUPS map
+339.8,z32 339-8 mA.txt,z44_339-9_mA_fixed_oscX.txt,z4_339-8_mA_fixed_oscY.txt,25000,5.0,explicit numeric-label matching; see script GROUPS map
+365.5,z32 365-5 mA.txt,z44_365-5_ma_fixed_oscX.txt,z4_365-7_mA_fixed_oscY.txt,25000,5.0,explicit numeric-label matching; see script GROUPS map
+400.1,z32 400-1 mA.txt,z44_400-0_mA_fixed_oscX.txt,z4_400-0_mA_fixed_oscY.txt,25000,5.0,explicit numeric-label matching; see script GROUPS map
+421.4,z32 421-4 mA.txt,z44_421-5_mA_fixed_oscX.txt,z4_421-3_mA_fixed_oscY.txt,25000,5.0,explicit numeric-label matching; see script GROUPS map

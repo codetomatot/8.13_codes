@@ -1,0 +1,15 @@
+OPTICAL TRAP ANALYSIS — DATA/ASSUMPTION NOTES
+
+Free-bead sample rate used: 5000 Hz.
+Eight explicit free/X/Y groups were analyzed; pairings are in grouping_manifest.csv.
+All ordinary free-bead files have 25,000 rows, i.e. 5 s at 5 kHz.
+free_bead_settings.txt says Seconds: 102, so the duration metadata conflicts with the actual row count.
+The 482.5 mA file has a large 0.5 Hz strain-gauge oscillation and was not assigned to a group.
+Physical assumptions: stage amplitude 5 µm; bead diameter 3 µm;
+water viscosity 0.00089 Pa s; temperature 298.15 K; no wall correction.
+The dynamic active-calibration formula is model-dependent and must be checked against the apparatus.
+Calibration diagnostics also show substantially different X/Y sensitivities; check channel ordering and the meaning/units of the 5.0 amplitude.
+Do not treat k_B values as validated if X/Y estimates disagree or differ substantially from the SI value.
+Median PSD-based k_B by axis: X=1.322e-22 J/K; Y=1.226e-24 J/K; X/Y median ratio=108.
+Reference exact SI value: 1.380649e-23 J/K.
+Use the fit RMSE, lock-in SNR, calibration plot and equipartition comparison to decide which runs are usable.
